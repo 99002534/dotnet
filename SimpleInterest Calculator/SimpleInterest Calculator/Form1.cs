@@ -31,7 +31,21 @@ namespace SimpleInterest_Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var principal=double.Parse(textBox1.Text);
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                MessageBox.Show("Principal should not be blank!");
+            }
+            if (string.IsNullOrWhiteSpace(textBox2.Text))
+            {
+                MessageBox.Show("Rate should not be blank!");
+            }
+            if (string.IsNullOrWhiteSpace(textBox3.Text))
+            {
+                MessageBox.Show("Period should not be blank!");
+            }
+            textBox4.ReadOnly = true;
+            textBox5.ReadOnly = true;
+            var principal = double.Parse(textBox1.Text);
             var rate = double.Parse(textBox2.Text);
             var period = double.Parse(textBox3.Text);
             //var interest = double.Parse(textBox4.Text);
@@ -39,8 +53,6 @@ namespace SimpleInterest_Calculator
             var amount = principal + interest;
             textBox4.Text = interest.ToString();
             textBox5.Text = amount.ToString();
-            
-            
         }
 
         private void textBox5_TextChanged(object sender, EventArgs e)

@@ -8,3 +8,13 @@ C:\Users\40012760\source\repos\SimpleInterest Calculator\SimpleInterest Calculat
 C:\Users\40012760\source\repos\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.CoreCompileInputs.cache
 C:\Users\40012760\source\repos\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.exe
 C:\Users\40012760\source\repos\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.pdb
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe.config
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.pdb
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.AssemblyReference.cache
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Form1.resources
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Properties.Resources.resources
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.GenerateResource.cache
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.CoreCompileInputs.cache
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.exe
+D:\.Net Training\my_work\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.pdb
