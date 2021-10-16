@@ -57,12 +57,12 @@ namespace SimpleInterest_Calculator
 
         private void textBox5_TextChanged(object sender, EventArgs e)
         {
-            textBox5.ReadOnly = true;
+            
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-            textBox4.ReadOnly = true;
+            
         }
     }
 }
