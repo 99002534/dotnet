@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.Net Training\\my_work\\202010-lnt-dotnet-main\\202010-lnt-dotnet-main\\Programs\\WPFDemos\\Calculate\\Calculate.csproj": {}
+  },
+  "projects": {
+    "D:\\.Net Training\\my_work\\202010-lnt-dotnet-main\\202010-lnt-dotnet-main\\Programs\\WPFDemos\\Calculate\\Calculate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.Net Training\\my_work\\202010-lnt-dotnet-main\\202010-lnt-dotnet-main\\Programs\\WPFDemos\\Calculate\\Calculate.csproj",
+        "projectName": "Calculate",
+        "projectPath": "D:\\.Net Training\\my_work\\202010-lnt-dotnet-main\\202010-lnt-dotnet-main\\Programs\\WPFDemos\\Calculate\\Calculate.csproj",
+        "packagesPath": "C:\\Users\\40012760\\.nuget\\packages\\",
+        "outputPath": "D:\\.Net Training\\my_work\\202010-lnt-dotnet-main\\202010-lnt-dotnet-main\\Programs\\WPFDemos\\Calculate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\40012760\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://amcon-nugetp1.absciexdev.local:81/nuget/PDV": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
